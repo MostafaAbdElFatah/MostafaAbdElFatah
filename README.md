@@ -4,9 +4,9 @@
 Senior Mobile Developer | iOS & Flutter Specialist
 
 🚀 Senior Mobile Developer with 8+ years of experience  
-   building and scaling high-performance mobile applications across finance, e-commerce, and multimedia domains.
-📱 Published 20+ production apps with 100k+ downloads and consistent 4.5+ App Store ratings.
-🧠 Passionate about clean architecture, scalable systems, CI/CD automation, and mentoring developers.
+   building and scaling high-performance mobile applications across finance, e-commerce, and multimedia domains.<br/>
+📱 Published 20+ production apps with 100k+ downloads and consistent 4.5+ App Store ratings.<br/>
+🧠 Passionate about clean architecture, scalable systems, CI/CD automation, and mentoring developers.<br/>
 
 ## 🌐 What I Do Best
 
