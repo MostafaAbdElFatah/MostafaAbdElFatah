@@ -20,7 +20,7 @@ Senior Mobile Developer with **8+ years of experience** building and scaling hig
 
 ## 🌐 What I Do Best
 
-| | |
+| Area | Focus |
 |---|---|
 | ✅ **End-to-end delivery** | Design and ship complete mobile solutions on iOS & Flutter |
 | 🏗️ **Architecture** | Scalable, secure, and maintainable codebases |
@@ -106,15 +106,6 @@ Senior Mobile Developer with **8+ years of experience** building and scaling hig
 - 🧪 **Clean, testable, maintainable** code
 - 🤝 **Close collaboration** with designers, backend teams, and stakeholders
 - 🔄 **Continuous improvement** mindset
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MostafaAbdElFatah&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaAbdElFatah&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages"/>
-</p>
 
 ---
 
